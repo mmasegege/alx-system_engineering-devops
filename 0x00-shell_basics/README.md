@@ -1,1 +1,1 @@
-0x00 shell basics README.md
+Thisscripte pwd print the current working directory
